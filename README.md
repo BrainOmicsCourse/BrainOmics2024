@@ -1,7 +1,7 @@
 # Github repository for BrainOmics course 2024
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/863eea2f-ee31-4811-8a51-810f1c74dfd0" style="width:75%; height:auto;"/>
+  <img src="https://github.com/BrainOmicsCourse/BrainOmics2024/blob/main/BrainOmics2.png" style="width:75%; height:auto;"/>
 </p>
 
 This repository contains all the notebooks of the hands-on sessions that will be held during the [BrainOmics 2.0](https://brainomics2024.humantechnopole.it/) course at the [Human Technopole](https://humantechnopole.it/en/) in Milan, Italy from November 18 to 22, 2024.
