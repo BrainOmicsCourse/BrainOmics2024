@@ -17,6 +17,11 @@ This repository contains all the notebooks of the hands-on sessions that will be
     
 ### Day 2: xxx 
 
+ * [Notebook 1: additional processing and metacells](2_Day2/1_Start.ipynb)
+ * [Notebook 2: Imputation and Trajectory inference](2_Day2/2_Palantir.ipynb)
+ * [Notebook 3: Trajectory analysis](2_Day2/3_Trajectories.ipynb)
+ * [Notebook 4: Transcription factor activity prediction](2_Day2/4_Decoupler.ipynb)
+ * [Resources](2_Day2/Resources.md)
 
 ## Course Project
 
