@@ -22,3 +22,5 @@ submit_GPU_newSif.sh
 **.pickle
 .config/
 .ipython/
+**__pycache__
+.bash_history
