@@ -11,8 +11,8 @@ This repository contains all the notebooks of the hands-on sessions that will be
 ### Day 1: _Essential Workflow for single-cell RNASeq computational analysis_
 
  * [WalkThrough](1_Day1/CourseWalkThrough.md)
- * [Notebook 1](1_Day1/1_FiltNormBatch.ipynb)
- * [Notebook 2](1_Day1/2_Clusters.ipynb)
+ * [Notebook 1: from count matrix to clusters](1_Day1/1_FiltNormBatch.ipynb)
+ * [Notebook 2: cluster characterization](1_Day1/2_Clusters.ipynb)
  * [Resources](1_Day1/Resources.md)
     
 ### Day 2: xxx 
@@ -23,15 +23,18 @@ This repository contains all the notebooks of the hands-on sessions that will be
  * [Notebook 4: Transcription factor activity prediction](2_Day2/4_Decoupler.ipynb)
  * [Resources](2_Day2/Resources.md)
 
-## Course Project
-
- * [First Step](Project/BraunDataset_Step1.ipynb)
-
 ### Day 3: _Computational analysis of spatial transcriptomics data_ 
 
  * [WalkThrough](3_Day3/Walkthrough_Day3.md)
  * [Spatial Transcriptomics notebook](3_Day3/spatial_day3.ipynb)
  * [Resources](3_Day3/Resources.md)
+
+
+## Course Project
+
+ * [First Step](Project/BraunDataset_Step1.ipynb)
+ * [Second Step] 
+
 
 
 ## Contacts
