@@ -22,7 +22,7 @@ For day 3 we have a new container for the specific tasks of spatial transcriptom
 
 ```bash
 module load singularity/3.8.5
-singularity exec -B <PATH/TO/THE/SHARED/FOLDER> -H $HOME/2024/day3  <PATH/TO/THE/SHARED/FOLDER>/Container/courses_brainomics2_day3-0.0.1.sif /bin/bash
+singularity exec -B /group/brainomics/ -H $HOME/BrainOmics2024/3_Day3  /group/brainomics/Container/courses_brainomics2_day3-0.0.1.sif /bin/bash
 ```
 
 This should open a new terminal inside the container. You need to initialize the conda environment by running the following commands:
@@ -66,7 +66,7 @@ You can open the notebook as we will be working mainly on it today. The notebook
 Solutions to the exercise are in the shared folder, you can copy them in day 3 folder by copying this command in the terminal:
 
 ```bash
-rsync -cvr <PATH/TO/THE/SHARED/FOLDER>/InputData/day3/Compiled $HOME/2024/day3
+rsync -cvr /group/brainomics/InputData/day3/Compiled $HOME/BrainOmics2024/3_Day3
 ```
 
-You should now see the Compiled folder in the day3 folder. There's a compiled .ipynb and .html file with the solutions to the exercises.
+You should now see the Compiled folder in the 3_Day3 folder. There's a compiled .ipynb and .html file with the solutions to the exercises.
