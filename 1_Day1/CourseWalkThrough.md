@@ -44,8 +44,8 @@ module load singularity/3.8.5
 ### Launch the container
 
 ```bash
-singularity exec -B <PATH/TO/THE/SHARED/FOLDER> -H $HOME/BrainOmics2024/1_Day1/ \
-    <PATH/TO/THE/SHARED/FOLDER>/Container/Day1_container.sif \
+singularity exec -B /group/brainomics -H $HOME/BrainOmics2024/1_Day1/ \
+    /group/brainomics/Container/Day1_container.sif \
     jupyter lab -y --ip=0.0.0.0 --port=8888 --notebook-dir=$HOME/BrainOmics2024/1_Day1/
 ```
 
