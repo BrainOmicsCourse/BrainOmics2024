@@ -15,7 +15,7 @@ This repository contains all the notebooks of the hands-on sessions that will be
  * [Notebook 2: cluster characterization](1_Day1/2_Clusters.ipynb)
  * [Resources](1_Day1/Resources.md)
     
-### Day 2: xxx 
+### Day 2: _Advanced approaches to single-cell RNA-seq data_
 
  * [Notebook 1: additional processing and metacells](2_Day2/1_Start.ipynb)
  * [Notebook 2: Imputation and Trajectory inference](2_Day2/2_Palantir.ipynb)
