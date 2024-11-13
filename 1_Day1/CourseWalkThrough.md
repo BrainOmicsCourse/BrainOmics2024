@@ -1,12 +1,19 @@
 __SECTIONS__
 
-[[_TOC_]]
-
+- [1. Clone the course material](#1-clone-the-course-material)
+    + [Connect to the VDI and login to linux VM](#connect-to-the-vdi-and-login-to-linux-vm)
+    + [Clone the repo](#clone-the-repo)
+- [2. Launch the analysis container](#2-launch-the-analysis-container)
+  * [Load Singularity Module](#load-singularity-module)
+  * [Launch the container](#launch-the-container)
+- [3. Explore the course material in jupyter](#3-explore-the-course-material-in-jupyter)
+- [4. First notebook from raw data to dimensionality reduction](#4-first-notebook-from-raw-data-to-dimensionality-reduction)
+- [5. Second notebook cluster characterization](#5-second-notebook-cluster-characterization)
 ---------------
 
 <br> </br>
 
-## 1. Clone the course material for Day 1
+## 1. Clone the course material
 
 * As a first step, we will clone the repo containing the material for this course day.
 * After the VM login, we will open a terminal window and, from the course folder, clone the repo.
@@ -68,16 +75,7 @@ It contains links to relevant external resources and material.
 
 <br> </br>
 
-## 4. Optional: Create Output folder
-
-If you want to write your final results, you can create a folder for storing output data. Let's call it 'OutData'.
-
-_Notes_
- * _BE CAREFUL not to version your data in the repo (here is avoided by acting on the .gitignore file)._
- * _While can use this approach for the exercise purpose, it is usually not advisable to keep code and data in the same folder. You should therefore create a folder storing both your input and output data in a proper location_   
-
-
-## 5. First notebook: from raw data to dimensionality reduction
+## 4. First notebook from raw data to dimensionality reduction
 
 * In the __Day1__ folder, you find the [__'1_FiltNormBatch'__](1_Day1/1_FiltNormBatch.ipynb) notebook structured in _markdown cells_ that contains information and comments and _code cells_ with the actual code chunks.
 * Starting from the assembled anndata, we will work through the following analytical steps: quality control; filtering; normalization; feature selection; cluster identification.
@@ -88,7 +86,7 @@ _Notes_
 
 <br> </br>
 
-## 6. Second notebook: cluster characterization
+## 5. Second notebook cluster characterization
 
 * Always in the __Day1__ folder, you find the [__'2_Clusters'__](1_Day1/2_Clusters.ipynb) notebook.
 * Starting from the output of the previous notebook, we will characterize clusters and check distribution and levels of genes of interest.
