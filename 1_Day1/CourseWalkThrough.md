@@ -61,7 +61,7 @@ singularity exec -B <PATH/TO/THE/SHARED/FOLDER> -H $HOME/BrainOmics2024/1_Day1/ 
 #### Dataset information
 
 * [__Dataset information__](Resources.md)
-* [__'AssembleAdata'__](1_Day1/Compiled/0_AssembleAdata.html) assembly html file: it reports the first step of the analytical workflow, to assemble the starting AnnData. While we will not perform this part in practice, you can look at the workflow by opening in the web browser.  
+* [__'AssembleAdata'__](Compiled/0_AssembleAdata.html) assembly html file: it reports the first step of the analytical workflow, to assemble the starting AnnData. While we will not perform this part in practice, you can look at the workflow by opening in the web browser.  
 
 #### [Helper file](HelperFunctions/Day1Helper.py)
 * It contains custom functions that are used in the notebooks.
@@ -77,9 +77,9 @@ It contains links to relevant external resources and material.
 
 ## 4. First notebook from raw data to dimensionality reduction
 
-* In the __Day1__ folder, you find the [__'1_FiltNormBatch'__](1_Day1/1_FiltNormBatch.ipynb) notebook structured in _markdown cells_ that contains information and comments and _code cells_ with the actual code chunks.
+* In the __Day1__ folder, you find the [__'1_FiltNormBatch'__](1_FiltNormBatch.ipynb) notebook structured in _markdown cells_ that contains information and comments and _code cells_ with the actual code chunks.
 * Starting from the assembled anndata, we will work through the following analytical steps: quality control; filtering; normalization; feature selection; cluster identification.
-* If you get lost, in the 'Compiled' folder you will find the [__notebook version__](1_Day1/Compiled/1_FiltNormBatch.ipynb) compiled with the outcome of each code chunk
+* If you get lost, in the 'Compiled' folder you will find the [__notebook version__](Compiled/1_FiltNormBatch.ipynb) compiled with the outcome of each code chunk
 
 
 -----------
@@ -88,9 +88,9 @@ It contains links to relevant external resources and material.
 
 ## 5. Second notebook cluster characterization
 
-* Always in the __Day1__ folder, you find the [__'2_Clusters'__](1_Day1/2_Clusters.ipynb) notebook.
+* Always in the __Day1__ folder, you find the [__'2_Clusters'__](2_Clusters.ipynb) notebook.
 * Starting from the output of the previous notebook, we will characterize clusters and check distribution and levels of genes of interest.
-* Also in this case, the [__compiled version__](1_Day1/Compiled/2_Clusters.ipynb) of the notebook is available in the 'Compiled' folder
+* Also in this case, the [__compiled version__](Compiled/2_Clusters.ipynb) of the notebook is available in the 'Compiled' folder
 
 -----------
 
