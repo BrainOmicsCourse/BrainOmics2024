@@ -66,7 +66,7 @@ You can open the notebook as we will be working mainly on it today. The notebook
 Solutions to the exercise are in the shared folder, you can copy them in day 3 folder by copying this command in the terminal:
 
 ```bash
-rsync -cvr /group/brainomics/InputData/day3/Compiled $HOME/BrainOmics2024/3_Day3
+rsync -cvr -p /group/brainomics/InputData/day3/Compiled $HOME/BrainOmics2024/3_Day3
 ```
 
 You should now see the Compiled folder in the 3_Day3 folder. There's a compiled .ipynb and .html file with the solutions to the exercises.
