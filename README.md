@@ -33,8 +33,13 @@ This repository contains all the notebooks of the hands-on sessions that will be
 ## Course Project
 
  * [First Step](Project/BraunDataset_Step1.ipynb)
- * [Second Step] 
+ * [Second Step](Project/BraunDataset_Step2.ipynb)
 
 
 
 ## Contacts
+
+- [Cristina Cheroni](mailto:cristina.cheroni@fht.org)
+- [Davide Castaldi](mailto:davide.castaldi@fht.org)
+- [Alessia Valenti](mailto:alessia.valenti@fht.org)
+- [Gaja Matassa](mailto:gaja.matassa@fht.org)
