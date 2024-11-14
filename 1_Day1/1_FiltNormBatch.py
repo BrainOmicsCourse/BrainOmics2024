@@ -89,7 +89,7 @@ sc.settings.set_figure_params(dpi=80, fontsize=12)
 # In[5]:
 
 
-path = '../DataDir/InputData/'
+path = '/group/brainomics/InputData/'
 Id = 'Day1_1_TrevinoAssembledAdata.h5ad'
 
 input_file = path + Id

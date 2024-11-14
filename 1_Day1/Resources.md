@@ -1,16 +1,21 @@
 __TABLE OF CONTENT__
 
-[[_TOC_]]
+- [Dataset information](#dataset-information)
+- [Manuals on scRNASeq data analysis](#manuals-on-scrnaseq-data-analysis)
+- [Information on tools and workflows](#information-on-tools-and-workflows)
+  * [Scanpy ecosystem](#scanpy-ecosystem)
+  * [Normalization](#normalization)
+  * [Feature selection](#feature-selection)
+  * [Batch correction](#batch-correction)
+
 
 
 <br>
 
-## Dataset information: Fetal Cortex
+## Dataset information
 
-* Paper Reference: [Chromatin and gene-regulatory dynamics of the developing human cerebral cortex at single-cell resolution](https://doi.org/10.1016/j.cell.2021.07.039)
+* Paper Reference: [__Chromatin and gene-regulatory dynamics of the developing human cerebral cortex at single-cell resolution__](https://doi.org/10.1016/j.cell.2021.07.039)
 * DOI: [https://doi.org/10.1016/j.cell.2021.07.039](https://doi.org/10.1016/j.cell.2021.07.039)
-* Journal: Cell
-* Year: 2021
 * Original Code - Resources: [Dataset Interactive Viewer](https://scbrainregulation.su.domains/)
 
 

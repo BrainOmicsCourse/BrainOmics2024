@@ -80,7 +80,7 @@ print(datetime.now())
 # In[5]:
 
 
-path = '../DataDir/InputData/'
+path = '/group/brainomics/InputData/'
 Id = 'Day1_2_TrevinoFiltNormAdata.h5ad'
 
 input_file = path + Id
