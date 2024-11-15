@@ -39,7 +39,7 @@ This repository contains all the notebooks of the hands-on sessions that will be
 
 ## Contacts
 
-- [Cristina Cheroni](mailto:cristina.cheroni@fht.org)
+- [Cristina Cheroni](https://humantechnopole.it/en/people/cristina-cheroni/)
 - [Davide Castaldi](mailto:davide.castaldi@fht.org)
 - [Alessia Valenti](mailto:alessia.valenti@fht.org)
 - [Gaja Matassa](mailto:gaja.matassa@fht.org)
