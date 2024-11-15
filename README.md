@@ -6,6 +6,9 @@
 
 This repository contains all the notebooks of the hands-on sessions that will be held during the [BrainOmics 2.0](https://brainomics2024.humantechnopole.it/) course at the [Human Technopole](https://humantechnopole.it/en/) in Milan, Italy from November 18 to 22, 2024.
 
+Link to the full **program** and **chat** [here](https://course.brainomics2024.humantechnopole.it)
+
+
 ## Hands-on Sessions
 
 ### Day 1: _Essential Workflow for single-cell RNASeq computational analysis_
