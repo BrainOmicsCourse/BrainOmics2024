@@ -2,11 +2,21 @@
 
 ## Table of Contents
 
-1. [Activate environment](#Activate-environment)
+1. [Update local repository](#Update-local-repository)
 
-2. [Project notebooks](#Project-notebooks)
+2. [Activate environment](#Activate-environment)
+
+3. [Project notebooks](#Project-notebooks)
+
 
 ---------------
+
+# Update local repository
+
+```bash
+cd $HOME/BrainOmics2024
+git pull 
+```
 
 # Activate environment
 
