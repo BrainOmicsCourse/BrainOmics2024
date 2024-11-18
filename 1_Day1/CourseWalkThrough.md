@@ -24,8 +24,6 @@ __SECTIONS__
 
 #### Clone the repo
 
-Clone the repo:
-
 ```bash
 cd $HOME
 git clone https://github.com/BrainOmicsCourse/BrainOmics2024.git

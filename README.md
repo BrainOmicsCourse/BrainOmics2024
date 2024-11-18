@@ -6,6 +6,9 @@
 
 This repository contains all the notebooks of the hands-on sessions that will be held during the [BrainOmics 2.0](https://brainomics2024.humantechnopole.it/) course at the [Human Technopole](https://humantechnopole.it/en/) in Milan, Italy from November 18 to 22, 2024.
 
+Link to the full **program** and **chat** [here](https://course.brainomics2024.humantechnopole.it)
+
+
 ## Hands-on Sessions
 
 ### Day 1: _Essential Workflow for single-cell RNASeq computational analysis_
@@ -17,6 +20,7 @@ This repository contains all the notebooks of the hands-on sessions that will be
     
 ### Day 2: _Advanced approaches to single-cell RNA-seq data_
 
+ * [WalkThrough](2_Day2/Walkthrough_Day2.md)
  * [Notebook 1: additional processing and metacells](2_Day2/1_Start.ipynb)
  * [Notebook 2: Imputation and Trajectory inference](2_Day2/2_Palantir.ipynb)
  * [Notebook 3: Trajectory analysis](2_Day2/3_Trajectories.ipynb)
@@ -32,9 +36,15 @@ This repository contains all the notebooks of the hands-on sessions that will be
 
 ## Course Project
 
+ * [WalkThrough](Project/ProjectsWalkthrough.md)
  * [First Step](Project/BraunDataset_Step1.ipynb)
- * [Second Step] 
+ * [Second Step](Project/BraunDataset_Step2.ipynb)
 
 
 
 ## Contacts
+
+- [Cristina Cheroni](https://humantechnopole.it/en/people/cristina-cheroni/)
+- [Davide Castaldi](mailto:davide.castaldi@fht.org)
+- [Alessia Valenti](mailto:alessia.valenti@fht.org)
+- [Gaja Matassa](mailto:gaja.matassa@fht.org)
