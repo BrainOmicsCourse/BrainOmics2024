@@ -20,6 +20,7 @@ Link to the full **program** and **chat** [here](https://course.brainomics2024.h
     
 ### Day 2: _Advanced approaches to single-cell RNA-seq data_
 
+ * [WalkThrough](2_Day2/Walkthrough_Day2.md)
  * [Notebook 1: additional processing and metacells](2_Day2/1_Start.ipynb)
  * [Notebook 2: Imputation and Trajectory inference](2_Day2/2_Palantir.ipynb)
  * [Notebook 3: Trajectory analysis](2_Day2/3_Trajectories.ipynb)
@@ -35,6 +36,7 @@ Link to the full **program** and **chat** [here](https://course.brainomics2024.h
 
 ## Course Project
 
+ * [WalkThrough](Project/ProjectsWalkthrough.md)
  * [First Step](Project/BraunDataset_Step1.ipynb)
  * [Second Step](Project/BraunDataset_Step2.ipynb)
 
