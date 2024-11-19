@@ -11,14 +11,14 @@ Link to the full **program** and **chat** [here](https://course.brainomics2024.h
 
 ## Hands-on Sessions
 
-### Day 1: [_Essential Workflow for single-cell RNASeq computational analysis_](1_Day1)
+### [Day 1](1_Day1): _Essential Workflow for single-cell RNASeq computational analysis_
 
  * [WalkThrough](1_Day1/CourseWalkThrough.md)
  * [Notebook 1: from count matrix to clusters](1_Day1/1_FiltNormBatch.ipynb)
  * [Notebook 2: cluster characterization](1_Day1/2_Clusters.ipynb)
  * [Resources](1_Day1/Resources.md)
     
-### Day 2: [_Advanced approaches to single-cell RNA-seq data_](2_Day2)
+### [Day 2](2_Day2): _Advanced approaches to single-cell RNA-seq data_
 
  * [WalkThrough](2_Day2/Walkthrough_Day2.md)
  * [Notebook 1: additional processing and metacells](2_Day2/1_Start.ipynb)
@@ -27,7 +27,7 @@ Link to the full **program** and **chat** [here](https://course.brainomics2024.h
  * [Notebook 4: Transcription factor activity prediction](2_Day2/4_Decoupler.ipynb)
  * [Resources](2_Day2/Resources.md)
 
-### Day 3: [_Computational analysis of spatial transcriptomics data_](3_Day3) 
+### [Day 3](3_Day3): _Computational analysis of spatial transcriptomics data_
 
  * [WalkThrough](3_Day3/Walkthrough_Day3.md)
  * [Spatial Transcriptomics notebook](3_Day3/spatial_day3.ipynb)
