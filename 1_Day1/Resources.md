@@ -7,6 +7,8 @@ __TABLE OF CONTENT__
   * [Normalization](#normalization)
   * [Feature selection](#feature-selection)
   * [Batch correction](#batch-correction)
+  * [Pseudobulk approaches](#pseudobulk-calculation)
+  * [Metacell approaches](#metacell-calculation)
 
 
 
@@ -55,3 +57,18 @@ __TABLE OF CONTENT__
 * [Harmony Quick Start](https://portals.broadinstitute.org/harmony/articles/quickstart.html)
 * [Harmony implementation in scanpy](https://scanpy.readthedocs.io/en/stable/generated/scanpy.external.pp.harmony_integrate.html)
 * [Benchmarking of batch correction methods](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9)
+
+### PseudoBulk calculation
+
+* [Decoupler pseudobulk workflow](https://decoupler-py.readthedocs.io/en/latest/notebooks/pseudobulk.html#Generation-of-pseudo-bulk-profiles)
+* [Decoupler general](https://decoupler-py.readthedocs.io/en/1.3.2/index.html)
+* [Pertpy](https://pertpy.readthedocs.io/en/stable/tutorials/notebooks/differential_gene_expression.html)
+
+### Metacell calculation
+
+* [SEACells paper](https://www.nature.com/articles/s41587-023-01716-9)
+* [SEACells GitHub](https://github.com/dpeerlab/SEACells)
+* [SEACells workflow](https://github.com/dpeerlab/SEACells/blob/main/notebooks/SEACell_computation.ipynb)
+* [Metacells2 paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02667-1)
+* [Metacells2 website](https://www.weizmann.ac.il/math/tanay/research-activities/metacell-2)
+* [Metacells2 documentation](https://metacells.readthedocs.io/en/latest/)
