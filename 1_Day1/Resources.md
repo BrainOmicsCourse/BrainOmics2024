@@ -9,7 +9,7 @@ __TABLE OF CONTENT__
   * [Batch correction](#batch-correction)
   * [Pseudobulk approaches](#pseudobulk-calculation)
   * [Metacell approaches](#metacell-calculation)
-
+- [Useful Literature](#useful-literature)
 
 
 <br>
@@ -72,3 +72,16 @@ __TABLE OF CONTENT__
 * [Metacells2 paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02667-1)
 * [Metacells2 website](https://www.weizmann.ac.il/math/tanay/research-activities/metacell-2)
 * [Metacells2 documentation](https://metacells.readthedocs.io/en/latest/)
+
+
+<br>
+
+## Useful literature
+
+### Dimensionality reduction and UMAP debate 
+* [Basic guidelines for single cell analysis](https://www.embopress.org/doi/full/10.15252/msb.20188746) here you can find the first indications and guidelines (2019 is already old in the single cell field but the principles still holds) for single cell data visualization
+* [UMAP documentation](https://umap-learn.readthedocs.io/en/latest/index.html) UMAP documentation is a very rich resource to properly check how it works and how it should be used
+* [UMAP for single cell visualization](https://www.nature.com/articles/nbt.4314) Original article introducing UMAP to visualise single cell data
+* UMAP criticisms [link1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011288) [link2](https://www.sciencedirect.com/science/article/pii/S2405471223002090)
+* [Recent benchmarck](https://openproblems.bio/results/dimensionality_reduction/) The last is the link to the specific recent benchmarck on dimensionality reduction, but this is part of a great resource for the field, across many different tasks for single cell analysis [Preprint](https://doi.org/10.21203/rs.3.rs-4181617/v1) [Repository](https://github.com/openproblems-bio/openproblems?tab=readme-ov-file)
+has context menu
