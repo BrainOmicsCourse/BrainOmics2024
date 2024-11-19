@@ -48,3 +48,7 @@ Link to the full **program** and **chat** [here](https://course.brainomics2024.h
 - [Davide Castaldi](mailto:davide.castaldi@fht.org)
 - [Alessia Valenti](mailto:alessia.valenti@fht.org)
 - [Gaja Matassa](mailto:gaja.matassa@fht.org)
+
+## TeamSession
+
+https://teams.microsoft.com/l/meetup-join/19:meeting_ZWMzMDc1MjktZGVhMC00NDg0LWI1MjEtMzM5Y2Y0NGM1MmMy@thread.v2/0?context=%7B%22Tid%22:%22afb9b26d-dddc-48be-8423-a328a6186c1b%22,%22Oid%22:%2260cc7f25-bcc8-4cab-8951-963f89aa3dfc%22%7D
