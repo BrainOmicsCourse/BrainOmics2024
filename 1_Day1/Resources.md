@@ -57,6 +57,7 @@ __TABLE OF CONTENT__
 * [Harmony Quick Start](https://portals.broadinstitute.org/harmony/articles/quickstart.html)
 * [Harmony implementation in scanpy](https://scanpy.readthedocs.io/en/stable/generated/scanpy.external.pp.harmony_integrate.html)
 * [Benchmarking of batch correction methods](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9)
+* [Benchmarking atlas-level data integration](https://www.nature.com/articles/s41592-021-01336-8)
 
 ### PseudoBulk calculation
 
@@ -74,6 +75,7 @@ __TABLE OF CONTENT__
 * [Metacells2 paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02667-1)
 * [Metacells2 website](https://www.weizmann.ac.il/math/tanay/research-activities/metacell-2)
 * [Metacells2 documentation](https://metacells.readthedocs.io/en/latest/)
+* [Review on metacell approaches, pros and cons](https://www.embopress.org/doi/full/10.1038/s44320-024-00045-6)
 
 
 <br>
@@ -87,3 +89,4 @@ __TABLE OF CONTENT__
 * UMAP criticisms [link1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011288) [link2](https://www.sciencedirect.com/science/article/pii/S2405471223002090)
 * [Recent benchmarck](https://openproblems.bio/results/dimensionality_reduction/) The last is the link to the specific recent benchmarck on dimensionality reduction, but this is part of a great resource for the field, across many different tasks for single cell analysis [Preprint](https://doi.org/10.21203/rs.3.rs-4181617/v1) [Repository](https://github.com/openproblems-bio/openproblems?tab=readme-ov-file)
 has context menu
+* [Differential abundance analysis with Milo](https://www.nature.com/articles/s41587-021-01033-z/figures/1)
