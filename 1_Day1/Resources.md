@@ -63,6 +63,8 @@ __TABLE OF CONTENT__
 * [Decoupler pseudobulk workflow](https://decoupler-py.readthedocs.io/en/latest/notebooks/pseudobulk.html#Generation-of-pseudo-bulk-profiles)
 * [Decoupler general](https://decoupler-py.readthedocs.io/en/1.3.2/index.html)
 * [Pertpy](https://pertpy.readthedocs.io/en/stable/tutorials/notebooks/differential_gene_expression.html)
+* [Confronting false discoveries in single-cell differential expression](https://www.nature.com/articles/s41467-021-25960-2)
+* [Benchmarking study](https://academic.oup.com/bib/article/23/5/bbac286/6649780)
 
 ### Metacell calculation
 
