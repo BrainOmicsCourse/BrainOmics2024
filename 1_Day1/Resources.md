@@ -1,6 +1,7 @@
 __TABLE OF CONTENT__
 
 - [Dataset information](#dataset-information)
+- [Analysis container](#analysis-container)
 - [Manuals on scRNASeq data analysis](#manuals-on-scrnaseq-data-analysis)
 - [Information on tools and workflows](#information-on-tools-and-workflows)
   * [Scanpy ecosystem](#scanpy-ecosystem)
@@ -19,6 +20,14 @@ __TABLE OF CONTENT__
 * Paper Reference: [__Chromatin and gene-regulatory dynamics of the developing human cerebral cortex at single-cell resolution__](https://doi.org/10.1016/j.cell.2021.07.039)
 * DOI: [https://doi.org/10.1016/j.cell.2021.07.039](https://doi.org/10.1016/j.cell.2021.07.039)
 * Original Code - Resources: [Dataset Interactive Viewer](https://scbrainregulation.su.domains/)
+* You can download the starting files from [GEO entry GSE162170](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162170) selecting from the supplementary files section _GSE162170_rna_counts.tsv_ and _GSE162170_rna_cell_metadata.txt_ 
+* To generate the h5ad used as input for the [first notebook](1_FiltNormBatch.ipynb), you can follow the workflow illustrated [here](Compiled/0_AssembleAdata.html)
+
+<br>
+
+## Analysis container
+
+* To retrieve the singularity image used for the analyses of Day 1, you can use this singularity command that will pull the image from dockerhub : `singularity pull docker://cerebrassu/downstream:cerebra-24.06.1`
 
 
 <br>
